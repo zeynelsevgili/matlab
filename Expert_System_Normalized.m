@@ -3,6 +3,8 @@ clear all;
 
 % butun veri setlerini 2 matriste toplama(D ve E matrisleri)
 %--------------------------------------------------------------------
+% butun veri setlerini 2 matriste toplama(D ve E matrisleri)
+%--------------------------------------------------------------------
 path1 = '/Users/demo/Documents/MATLAB/machine learning in matlab/d/';
 % Bu directory deki butun dosyalari indexler
 my_files = dir(fullfile(path1, '*.txt'));
